@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.todolist.ui.MainActivity">
+    <item
+        android:id="@+id/action_deleteAll"
+        android:icon="@drawable/baseline_delete_24"
+        android:orderInCategory="100"
+        android:title="deleteAll"
+        app:showAsAction="always" />
+</menu>
